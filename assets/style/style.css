@@ -7,8 +7,13 @@
     --color-lime:  rgba(176, 201, 38, 1);
 }
 
+/* header */
+.logo{
+    width: 35px;
+    vertical-align:text-bottom;
+}
 
-
-
-
-
+h1{
+    display: inline;
+    font-size: 40px;
+}
